@@ -1,0 +1,20 @@
+body{
+    background-image: url("https://i.pinimg.com/originals/5f/21/5c/5f215c216da0410c4f58c5b0b15c4556.jpg");
+}
+.col-md-12{
+    border: groove;
+    width: auto;
+    height: 150px;
+}
+img{
+    width: 120px;
+    height: 100px;
+}
+.box{
+    width: 900px;
+    height: 200px;
+    border: groove;
+    background-color: #fff4cb;
+    margin-left: 380px;
+    position: absolute;top: 280px;
+}

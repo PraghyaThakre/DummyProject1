@@ -1,0 +1,41 @@
+body{
+    background-image: url("https://www.walldevil.com/wallpapers/a24/titles-background-papers-wallpaper-resources-lol-images-wallpapers.jpg");
+}
+.box{
+    width: 1000px;
+    height: 820px;
+    border: groove;
+    margin-left: 120px;
+}
+
+img{
+    width: 350px;
+    height: 150px;
+    margin-left:0px;
+}
+video{
+    position: absolute;
+    top: 212px;
+}
+#mycarousel{
+    position:absolute ;
+    top: 500px;
+    width: 990px;
+}
+.nav-stacked{
+    width: 200px;
+}
+p:hover{
+    background-color: #ff773f;
+}
+footer{
+    border: groove;
+    position: absolute;
+    top: 700px;
+    background-color: #c0c3bd;
+    width: 990px;
+    height: 120px;
+}
+p1{
+    margin-top: 10px;
+}

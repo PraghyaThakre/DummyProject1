@@ -1,0 +1,38 @@
+body{
+    background-image: url("http://htmlcolorcodes.com/assets/images/html-color-codes-color-tutorials-hero-00e10b1f.jpg");
+}
+img{
+    width: 200px;
+    height: 150px;
+}
+.row{
+    background-color:#5557ff;
+    width: auto;
+    height: 20px;
+}
+.row1{
+    background-color: #90938f;
+    width: auto;
+    height: 20px;
+
+}
+form{
+    text-align: left;margin-left: 20px;
+    margin-top: 20px;
+
+}
+.row2{
+    background-color: #c0c3bd;
+    width: auto;
+    height: 50px;
+    text-align: center;
+    margin-top: 10px;
+}
+label{
+    color:#100f0d;
+
+}
+i{
+    color: #100f0d;
+
+}

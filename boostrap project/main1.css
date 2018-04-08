@@ -1,0 +1,41 @@
+header{
+    width: auto;
+    height: 100px;
+    font-size: 90px;
+    font-family: Monotype Corsiva;
+    text-align: center;
+    border: groove;
+    background-color:#ff611b;
+
+}
+p{
+font-size: 50px;
+    color: #ff23ce;
+    font-family: "Monotype Corsiva";
+    text-align: center;
+
+
+}
+button[type]{
+    size: 100px;
+    background-color:transparent;
+    font-size: 50px;
+    font-style: italic;
+    width: 100px;
+
+}
+#mycarousel{
+    width:1000px ;
+    height: 510px;
+}
+p:hover{
+    background-color: #ff773f;
+}
+footer{
+    border: groove;
+    position: absolute;
+    top: 610px;
+    background-color: #c0c3bd;
+    width:1340px;
+    height: 120px;
+}

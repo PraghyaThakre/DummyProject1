@@ -1,0 +1,93 @@
+body{
+    background-image: url("http://htmlcolorcodes.com/assets/images/html-color-codes-color-tutorials-hero-00e10b1f.jpg");
+
+}
+.box1{
+    width:1000px;
+    height:1200px;
+    border:groove;
+    margin-top: 0px;
+    margin-left: 130px;
+    background-image: url("bootstrap-3.3.7-dist/image/21654044-beautiful-abstract-background-with-butterflies-Stock-Vector-violet-purple.jpg");
+}
+img{
+    width: 200px;
+    height: 100px;
+    position:static;
+}
+input[type="button"]
+{
+    width:150px;
+    height:30px;
+    border:groove;
+    margin-top:0px;
+    margin-left: 330px;
+    border-radius:10px;
+    text-align: center;
+    background-color:rgba(169,173,168,0.96);
+}
+.box2{
+    width:996px;
+    height: 50px;
+    background-color:rgba(41,84,173,0.96);
+    margin-top:40px;
+}
+.box3{
+    width: 950px;
+    height: 50px;
+    margin-top:15px;
+    border: groove;
+    margin-left:20px;
+
+}
+p{
+    text-align: center;
+    color: #0f0f0f;
+    margin-top: 10px;
+
+}
+.box4{
+    width: 995px;
+    height: 40px;
+    background-color: rgba(255,206,244,0.96);
+    margin-top:0px;
+    margin-left:0px;
+}
+p1{
+    color:rgba(85,87,255,0.96);
+    margin-left: 30px;
+    position: relative;top:10px;
+}
+p2{
+    position: relative;top:20px;
+}
+.box5{
+    width: 400px;
+    height: 70px;
+    border: groove;
+    margin-top: 330px;
+    border-radius: 12px;
+    text-align: center;
+
+}
+p3{
+    color: #311eff;
+    font-size: small;
+    margin-top: 5px;
+}
+.col-md-4{
+   margin-top: 20px;
+    border:groove;
+    width: 332px;
+    height: 250px;
+    font-size: small;
+    text-align: center;
+    color:#311eff;
+    background-color:#e2dbb0;
+}
+.col-md-12{
+    margin-top: 20px;
+    margin-left:0px;
+    border: groove;
+    width: 996px;
+}
